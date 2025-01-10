@@ -1,0 +1,59 @@
+Warzywa i owoce:
+
+    Pomidory
+    Ogórki
+    Papryka
+    Marchewki
+    Ziemniaki
+    Jabłka
+    Banany
+    Cytryny
+
+Produkty nabiałowe:
+
+    Mleko
+    Jogurt naturalny
+    Ser żółty
+    Masło
+
+Mięso i ryby:
+
+    Kurczak (pierś lub udka)
+    Łosoś
+    Wędliny (szynka, salami)
+
+Produkty suche:
+
+    Makaron
+    Ryż
+    Mąka
+    Cukier
+    Sól
+    Kawa
+    Herbata
+
+Przekąski i słodycze:
+
+    Chipsy
+    Orzechy
+    Czekolada
+    Biszkopty
+
+Napojów:
+
+    Sok pomarańczowy
+    Woda mineralna
+    Napój gazowany
+
+Artykuły higieniczne:
+
+    Papier toaletowy
+    Płyn do naczyń
+    Proszek do prania
+    Żel pod prysznic
+
+Produkty mrożone:
+
+    Mrożona pizza
+    Mrożony groszek
+    Lody
